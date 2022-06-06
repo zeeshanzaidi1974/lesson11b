@@ -45,7 +45,7 @@ img:hover{transform:scale(1.3)}.btn,.last{position:absolute;justify-content:cent
 
 
 .flex__example1 {
-    height: 100vh; 
+    height: 120vh; 
     
     display: flex;
     flex-direction: column;
