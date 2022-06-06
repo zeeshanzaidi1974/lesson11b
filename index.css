@@ -10,9 +10,9 @@
 .info{ margin-left:30px;font-size:20px;font-family:"Palatino",cursive;color:black ;}
 
 
-.nav{min-width:600px;display:flex;justify-content:space-evenly;align-items:center}
+.nav{min-width:600px;display:inline;justify-content:space-evenly;align-items:center}
 
-.nav__list{width:100%;display:flex;justify-content:space-evenly;align-items:center;flex-direction:row;margin-left:10px}
+.nav__list{width:100%;display:inline;justify-content:space-evenly;align-items:center;flex-direction:row;margin-left:10px}
 
 .nav__li{list-style:none}
 
