@@ -45,7 +45,7 @@ img:hover{transform:scale(1.3)}.btn,.last{position:absolute;justify-content:cent
 
 
 .flex__example1 {
-    height: 80vh; 
+    height: 100vh; 
     
     display: flex;
     flex-direction: column;
@@ -58,7 +58,7 @@ img:hover{transform:scale(1.3)}.btn,.last{position:absolute;justify-content:cent
 .container1 {
     border: 5px dotted coral;
     
-    width: 60%;
+    width: 80%;
     min-height: 100%;
     padding: 25px 0;
     display: flex;
@@ -71,8 +71,8 @@ img:hover{transform:scale(1.3)}.btn,.last{position:absolute;justify-content:cent
     background-color: darkcyan;
     border: 5px solid black;
     align-items: baseline;
-    max-width: 320px;
-    min-height: 40px;
+    max-width: 350px;
+    min-height: 80px;
     margin: 10px;
     display: flex;
     justify-content: flex-start;
