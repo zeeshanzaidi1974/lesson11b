@@ -119,29 +119,7 @@ img:hover{transform:scale(1.3)}.btn,.last{position:absolute;justify-content:cent
 
 .logo{margin-left:30px;font-size:40px;font-family:"Bangers",cursive;color:#ff7300;}
 	
-.main {
 
-	width: 300%;
-	
-	height: 100vh;
-		
-        align-items: center;
-    
-        background-repeat: no-repeat;
-
-        background-position: 530px 5px;
-
-        background-repeat: no-repeat;
-
-         background-size: 500px 300px;
-
-}
-
-.main__info, .main__tagline {
-
-    font-size: 25px;
-
-}
 
 .navcontainer ul
 {
